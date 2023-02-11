@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20Everyone!%20![Alt text](https://github.com/nixin72/nixin72/blob/master/wave.gif)&fontSize=90)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20Everyone!&fontSize=90)
+![Alt text](https://github.com/nixin72/nixin72/blob/master/wave.gif)
 
 
 - 👋 Hi, I’m Aditya
