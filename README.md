@@ -4,9 +4,9 @@
 <img src="https://github.com/aditya7302/aditya7302/blob/main/programmer.gif">
 </p>
 
-<div align="center">
+
 ![metrics plugin achievements compact](https://user-images.githubusercontent.com/110886184/218280160-720f92fc-0ff5-4955-b836-5b004da3a647.svg)
-</div>
+
 
 
 - 👋 Hi, I’m Aditya
