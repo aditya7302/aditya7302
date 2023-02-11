@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&animation=fadeIn&section=header&text=Hello%20Everyone!%20👋&fontSize=90)
 
-![](https://giphy.com/embed/qgQUggAC3Pfv687qPC)
+![](https://giphy.com/embed/qgQUggAC3Pfv687qPC.gif)
 
 
 
