@@ -41,6 +41,8 @@
 
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya7302&count_private=true&show_icons=true&theme=cobalt) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
+![metrics plugin achievements compact](https://user-images.githubusercontent.com/110886184/218280160-720f92fc-0ff5-4955-b836-5b004da3a647.svg)
+
 
 
 <!---
