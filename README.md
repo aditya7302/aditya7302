@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&animation=fadeIn&section=header&text=Hello%20Everyone!%20👋&fontSize=90)
 
-![](https://giphy.com/embed/qgQUggAC3Pfv687qPC.gif)
+<img src="https://github.com/aditya7302/aditya7302/blob/main/programmer.gif">
 
 
 
@@ -37,14 +37,7 @@
             
 </p>
 
-name: Full-year calendar
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.isocalendar.fullyear.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_isocalendar: yes
-  plugin_isocalendar_duration: full-year
+
 <!---
 aditya7302/aditya7302 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
