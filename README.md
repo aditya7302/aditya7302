@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&animation=fadeIn&section=header&text=Hello%20Everyone!%20👋&fontSize=90)
 
-<img src="https://github.com/aditya7302/aditya7302/blob/main/programmer.gif" align="center>
+<img src="https://github.com/aditya7302/aditya7302/blob/main/programmer.gif" align="center">
 
 
 
