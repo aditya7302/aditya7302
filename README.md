@@ -13,7 +13,7 @@
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me aditya7302@gmail.com
 
-<a href="#"><img align="center" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/achievements.svg" style="max-width: 100%;"></a>
+
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
