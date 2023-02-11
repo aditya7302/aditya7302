@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&animation=fadeIn&section=header&text=Hello%20Everyone!%20👋&fontSize=90)
 
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<img src ="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360">
+
+
 
 - 👋 Hi, I’m Aditya
 - 👀 I’m interested in Competitive Programming and Web Developement
