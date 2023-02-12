@@ -43,7 +43,7 @@
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya7302&count_private=true&show_icons=true&theme=cobalt) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 
-
+![Snake animation](https://github.com/aditya7302/aditya7302/blob/output/github-contribution-grid-snake.svg)
 
 
 <!---
